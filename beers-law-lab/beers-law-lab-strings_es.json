@@ -12,7 +12,7 @@
     ]
   },
   "beers-law-lab.title": {
-    "value": "Laboratorio de la Ley de Beer",
+    "value": "Laboratorio de la ley de Beer",
     "history": [
       {
         "userId": 282036,
@@ -24,7 +24,7 @@
     ]
   },
   "cobaltChloride": {
-    "value": "Cloruro de Cobalto",
+    "value": "Cloruro de cobalto",
     "history": [
       {
         "userId": 282036,
@@ -36,7 +36,7 @@
     ]
   },
   "cobaltIINitrate": {
-    "value": "Nitrato de Cobalto (II)",
+    "value": "Nitrato de cobalto (II)",
     "history": [
       {
         "userId": 282036,
@@ -72,7 +72,7 @@
     ]
   },
   "copperSulfate": {
-    "value": "Sulfato de Cobre",
+    "value": "Sulfato de cobre",
     "history": [
       {
         "userId": 282036,
@@ -120,7 +120,7 @@
     ]
   },
   "nickelIIChloride": {
-    "value": "Cloruro de Niquel (II)",
+    "value": "Cloruro de niquel (II)",
     "history": [
       {
         "userId": 282036,
@@ -180,7 +180,7 @@
     ]
   },
   "pattern.0soluteAmount": {
-    "value": "Cantidad de Soluto: {0} g",
+    "value": "Cantidad de soluto: {0} g",
     "history": [
       {
         "userId": 282036,
@@ -216,7 +216,7 @@
     ]
   },
   "potassiumChromate": {
-    "value": "Cromato de Potasio",
+    "value": "Cromato de potasio",
     "history": [
       {
         "userId": 282036,
@@ -228,7 +228,7 @@
     ]
   },
   "potassiumDichromate": {
-    "value": "Dicromato de Potasio",
+    "value": "Dicromato de potasio",
     "history": [
       {
         "userId": 282036,
@@ -240,7 +240,7 @@
     ]
   },
   "potassiumPermanganate": {
-    "value": "Permanganato de Potasio",
+    "value": "Permanganato de potasio",
     "history": [
       {
         "userId": 282036,
@@ -264,7 +264,7 @@
     ]
   },
   "removeSolute": {
-    "value": "Remover Soluto",
+    "value": "Eliminar soluto",
     "history": [
       {
         "userId": 282036,
@@ -312,7 +312,7 @@
     ]
   },
   "sodiumChloride": {
-    "value": "Cloruro de Sodio",
+    "value": "Cloruro de sodio",
     "history": [
       {
         "userId": 282036,
@@ -348,7 +348,7 @@
     ]
   },
   "solution": {
-    "value": "Solución",
+    "value": "Disolución",
     "history": [
       {
         "userId": 282036,
@@ -495,7 +495,7 @@
     ]
   },
   "wavelength": {
-    "value": "Longitud de Onda",
+    "value": "Longitud de onda",
     "history": [
       {
         "userId": 282036,
