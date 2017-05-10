@@ -132,7 +132,7 @@
     ]
   },
   "fluid-pressure-and-flow.title": {
-    "value": "Presión del fluido y  flujo",
+    "value": "Presión del fluido y flujo",
     "history": [
       {
         "userId": 174240,
@@ -144,7 +144,7 @@
     ]
   },
   "fluidDensity": {
-    "value": "Densidad del Fluido",
+    "value": "Densidad del fluido",
     "history": [
       {
         "userId": 174240,
@@ -372,7 +372,7 @@
     ]
   },
   "matchLeakage": {
-    "value": "Igualar Flujo",
+    "value": "Igualar flujo",
     "history": [
       {
         "userId": 174240,

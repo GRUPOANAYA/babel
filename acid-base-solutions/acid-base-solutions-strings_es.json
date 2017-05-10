@@ -12,7 +12,7 @@
     ]
   },
   "acid-base-solutions.title": {
-    "value": "Soluciones Ácido-Base",
+    "value": "Soluciones ácido-base",
     "history": [
       {
         "userId": 282036,
@@ -36,7 +36,7 @@
     ]
   },
   "concentrationGraph.yAxis": {
-    "value": "Concentración en Equilibrio (mol/L)",
+    "value": "Concentración en equilibrio (mol/L)",
     "history": [
       {
         "userId": 282036,
@@ -72,13 +72,13 @@
     ]
   },
   "equilibriumConcentration": {
-    "value": "Concentración\r\nen Equilibrio",
+    "value": "Concentración\r\nen equilibrio",
     "history": [
       {
         "userId": 282036,
         "timestamp": 1480452313554,
         "oldValue": "",
-        "newValue": "Concentración\r\nen Equilibrio",
+        "newValue": "Concentración\r\nen equilibrio",
         "explanation": null
       }
     ]
@@ -108,7 +108,7 @@
     ]
   },
   "initialConcentration": {
-    "value": "Concentración\nInicial:",
+    "value": "Concentración\ninicial:",
     "history": [
       {
         "userId": 282036,
@@ -144,7 +144,7 @@
     ]
   },
   "magnifying-glass-prototype.name": {
-    "value": "Prototipo de Lente de Aumento",
+    "value": "Prototipo de lente de aumento",
     "history": [
       {
         "userId": 282036,

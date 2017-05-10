@@ -12,7 +12,7 @@
     ]
   },
   "balanced": {
-    "value": "balanceada",
+    "value": "ajustada",
     "history": [
       {
         "userId": 282036,
@@ -24,7 +24,7 @@
     ]
   },
   "balancing-chemical-equations.title": {
-    "value": "Balanceo de Ecuaciones Químicas",
+    "value": "Ajuste de ecuaciones químicas",
     "history": [
       {
         "userId": 282036,
@@ -36,7 +36,7 @@
     ]
   },
   "balancingGame": {
-    "value": "Juego de Balanceado",
+    "value": "Juego de ajuste",
     "history": [
       {
         "userId": 282036,
@@ -60,7 +60,7 @@
     ]
   },
   "check": {
-    "value": "Revisar",
+    "value": "Comprobar",
     "history": [
       {
         "userId": 282036,
@@ -72,7 +72,7 @@
     ]
   },
   "chooseYourLevel": {
-    "value": "¡Elige un nivel!",
+    "value": "¡Elige tu nivel!",
     "history": [
       {
         "userId": 282036,
@@ -84,7 +84,7 @@
     ]
   },
   "combustMethane": {
-    "value": "Combustión de Metano",
+    "value": "Combustión de metano",
     "history": [
       {
         "userId": 282036,
@@ -144,7 +144,7 @@
     ]
   },
   "makeAmmonia": {
-    "value": "Producción de Amoníaco",
+    "value": "Producción de amoníaco",
     "history": [
       {
         "userId": 282036,
@@ -192,7 +192,7 @@
     ]
   },
   "notBalanced": {
-    "value": "No balanceada",
+    "value": "No ajustada",
     "history": [
       {
         "userId": 282036,

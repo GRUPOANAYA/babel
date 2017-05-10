@@ -144,7 +144,7 @@
     ]
   },
   "ftPerSPerS": {
-    "value": "pie/seg<sup>2</sup>",
+    "value": "pie/s<sup>2</sup>",
     "history": [
       {
         "userId": 174240,
@@ -240,7 +240,7 @@
     ]
   },
   "mPerSPerS": {
-    "value": "m/seg<sup>2</sup>",
+    "value": "m/s<sup>2</sup>",
     "history": [
       {
         "userId": 174240,
