@@ -99,6 +99,60 @@
         "oldValue": "adaptado\r\nde",
         "newValue": "adaptado\r\nde",
         "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1494640772528,
+        "oldValue": "adaptado\r\nde",
+        "newValue": "adaptado\r\nde",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1494640962888,
+        "oldValue": "adaptado\r\nde",
+        "newValue": "adaptado\r\nde",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1494641496874,
+        "oldValue": "adaptado\r\nde",
+        "newValue": "adaptado\r\nde",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1494641825182,
+        "oldValue": "adaptado\r\nde",
+        "newValue": "adaptado\r\nde",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1494642912354,
+        "oldValue": "adaptado\r\nde",
+        "newValue": "adaptado\r\nde",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1494643033747,
+        "oldValue": "adaptado\r\nde",
+        "newValue": "adaptado\r\nde",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "Contribuciones: {0}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1494640772527,
+        "oldValue": "",
+        "newValue": "Contribuciones: {0}",
+        "explanation": null
       }
     ]
   },
@@ -206,6 +260,18 @@
         "timestamp": 1480443362437,
         "oldValue": "",
         "newValue": "Terminado",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "Uso del Teclado",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1494640772527,
+        "oldValue": "",
+        "newValue": "Uso del Teclado",
         "explanation": null
       }
     ]
