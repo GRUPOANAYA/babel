@@ -1,4 +1,10 @@
 {
+  "adaptedFrom": {
+    "value": "Adaptado de",
+    "history": [
+      {}
+    ]
+  },
   "credits.graphicArts": {
     "value": "Artes gráficas: {0}",
     "history": [
