@@ -12,7 +12,7 @@
     ]
   },
   "balancing-chemical-equations.title": {
-    "value": "Ajustando ecuaciones químicas",
+    "value": "Ajuste de ecuaciones químicas",
     "history": [
       {
         "userId": 190972,
@@ -60,7 +60,7 @@
     ]
   },
   "hideWhy": {
-    "value": "Ocultar porqué",
+    "value": "Ocultar",
     "history": [
       {
         "userId": 190972,
@@ -228,7 +228,7 @@
     ]
   },
   "showWhy": {
-    "value": "Mostrar porqué",
+    "value": "Mostrar recuento de átomos",
     "history": [
       {
         "userId": 190972,
